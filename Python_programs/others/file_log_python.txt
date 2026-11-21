@@ -1,0 +1,24 @@
+Function name: process1
+Execution time: 1.4543533325195312e-05
+Function name: {func.__name__}
+Execution time: {execution_time}
+Function name: process1
+Execution time: 1.4543533325195312e-05
+Function name: process1
+Execution time: 1.3589859008789062e-05
+Function name: process1
+Execution time: 1.33514404296875e-05
+
+
+Function name: process1
+Execution time: 1.430511474609375e-05
+
+Function name: process1
+Execution time: 1.430511474609375e-05
+
+Function name: process1
+Execution time: 1.7642974853515625e-05
+
+Function name: process2
+Execution time: 9.775161743164062e-06
+
